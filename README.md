@@ -7,7 +7,7 @@ One-click installer for ASIDCLOUD game panel with purple/black theme, custom IP 
 Run this command on your VPS:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/ASIDCLOUD/ASIDCLOUD-Panel/main/asidcloud.sh)
+bash <(curl -s https://raw.githubusercontent.com/mominaluchifg-ship-it/ASIDCLOUD-Panel/main/asidcloud.sh)
 ```
 
 ## ✨ Features
